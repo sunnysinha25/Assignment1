@@ -41,15 +41,12 @@ g.	They may dine-in or takeaway or have delivery on their address
 ~ 4)	Create a new Repository -add 2 files file1.txt and file2.txt commit 2 files,modify file2.txt and commit. 
 Creating new Repository “repo”:![mkdir](https://user-images.githubusercontent.com/80207796/213917272-1d82dfcf-82c8-4429-870c-944523915b17.png)
  
-
 Initializing the repository:
 ![init](https://user-images.githubusercontent.com/80207796/213917350-2e02cdd3-2878-4691-b2d2-f8f76322f7a7.png)
- 
 
 Adding 2 files “file1.txt” and “file2.txt” and commiting them respectively:
 ![addfiles1and2](https://user-images.githubusercontent.com/80207796/213917360-e578f4f4-f16c-424d-8940-d80ef08deb17.png)
 
- 
 Modifying “file2.txt” and commiting it:
  ![modify file2 txt](https://user-images.githubusercontent.com/80207796/213917370-7487316b-9afb-4d48-b648-ca7057cd0767.png)
 
