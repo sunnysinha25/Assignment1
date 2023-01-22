@@ -39,7 +39,7 @@ g.	They may dine-in or takeaway or have delivery on their address
 
 
 ~ 4)	Create a new Repository -add 2 files file1.txt and file2.txt commit 2 files,modify file2.txt and commit. 
-Creating new ![mkdir](https://user-images.githubusercontent.com/80207796/213917272-1d82dfcf-82c8-4429-870c-944523915b17.png)
+Creating new Repository “repo”:![mkdir](https://user-images.githubusercontent.com/80207796/213917272-1d82dfcf-82c8-4429-870c-944523915b17.png)
 Repository “repo”:
  
 
